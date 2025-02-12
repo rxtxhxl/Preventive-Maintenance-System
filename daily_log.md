@@ -1,6 +1,6 @@
-# OJT Daily Wireframe Log
+# Day 1 (February 11, 2025)
 
-## Day 1 (February 11, 2025)
+## OJT Daily Wireframe Log     
 **Tasks:**
 - Designed initial wireframes for the Preventive Maintenance System.
 - Created five wireframes: the first four display colleges and months, categorized as A (Annual), SA (Semi-Annual), and Q (Quarterly). These are grouped as Set A.
